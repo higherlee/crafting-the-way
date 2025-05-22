@@ -7,6 +7,8 @@ The game was developed by adopting MVC architecture and applying OOP.
 
 ## Game Rules
 
+<img width="1100" alt="game_rules" src="https://github.com/user-attachments/assets/21785a1f-e490-4075-9170-c9c36e4956ec" />
+
 - Players can place walls at any location they want, **with one exception**:  
 Walls should not completely block any piece, including their own.
 - Players can move one square up, down, left, or right in one turn.  
@@ -14,11 +16,15 @@ Walls should not completely block any piece, including their own.
 
 ## Implementation
 
+<img width="1100" alt="class_diagram" src="https://github.com/user-attachments/assets/abf5a0ab-b4d0-4c3d-bfe8-3e6ed331667f" />
+
 - BGLogic checks if the player's piece can move and whether the wall can be placed.
 - The validity of the wall placement requested by the player is checked by DFS.
 - Only when the player's request is valid will the changes be reflected through BGFrame.
 
 ## Demo
+
+https://github.com/user-attachments/assets/47285008-d20d-426f-8caa-26826c9dc8e4
 
 The demo video is played at 1.5x speed.
 
