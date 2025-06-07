@@ -3,7 +3,7 @@
 ## Introduction
 
 This project is a board game inspired by the rules of a popular board game.  
-The game was developed by adopting MVC architecture and applying OOP.
+The game was designed with an MVC architecture.
 
 ## Game Rules
 
@@ -29,8 +29,7 @@ https://github.com/user-attachments/assets/47285008-d20d-426f-8caa-26826c9dc8e4
 The demo video is played at 1.5x speed.
 
 ## Additional Info
-- In order to distribute the project publicly, I recently renamed some files and variables in the source code.  
-  **but there were no changes to the logic.**  
-- I got consent to distribute the source code to the team members who worked on the project together.  
+- **This project was completed in 2022.** I got consent to distribute the source code to the team members who worked on the project together.  
+- In order to distribute the project publicly, I recently renamed some files and variables in the source code. **but there were no changes to the logic.**  
 - It works well in most cases, but there are bugs in some edge cases.  
-  I would appreciate it if you could contribute to fixing this!  
+  I would appreciate it if you could [contribute](https://github.com/higherlee/crafting-the-way/pulls) to fixing this! 
