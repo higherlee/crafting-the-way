@@ -1,11 +1,9 @@
-# crafting-the-way
-
 ## Introduction
 
 This project is a board game inspired by the rules of a popular board game.  
 The game was designed with an MVC architecture.
 
-## Game Rules
+## Game rules
 
 <img width="1100" alt="game_rules" src="https://github.com/user-attachments/assets/21785a1f-e490-4075-9170-c9c36e4956ec" />
 
